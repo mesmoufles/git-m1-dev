@@ -1,0 +1,5 @@
+Hello world! 
+
+This is the first file of the M1 exercise with Git and the terminal ! 
+
+By world! 
